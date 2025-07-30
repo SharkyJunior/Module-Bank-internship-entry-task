@@ -45,3 +45,4 @@ C:\Users\SharkyJr\Documents\_documents\git\Module-Bank-internship-entry-task\Tic
 C:\Users\SharkyJr\Documents\_documents\git\Module-Bank-internship-entry-task\TicTacToeAPI\TicTacToeAPI\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
 C:\Users\SharkyJr\Documents\_documents\git\Module-Bank-internship-entry-task\TicTacToeAPI\TicTacToeAPI\bin\Debug\net9.0\Npgsql.dll
 C:\Users\SharkyJr\Documents\_documents\git\Module-Bank-internship-entry-task\TicTacToeAPI\TicTacToeAPI\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\SharkyJr\Documents\_documents\git\Module-Bank-internship-entry-task\TicTacToeAPI\TicTacToeAPI\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

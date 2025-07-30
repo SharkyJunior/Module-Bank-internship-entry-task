@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using TicTacToeAPI.Models;
 
 namespace TicTacToeAPI.Database
 {
@@ -8,5 +9,8 @@ namespace TicTacToeAPI.Database
         : base(options)
         {
         }
+
+        DbSet<Game> games { get; set; }
+        DbSet<Move> moves { get; set; }
     }
 }

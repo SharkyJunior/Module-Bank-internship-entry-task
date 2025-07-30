@@ -20,13 +20,7 @@ builder.Services.AddOpenApi();
 
 builder.Configuration.AddEnvironmentVariables();
 
-builder.Services.Configure<GameSettings>(
-    builder.Configuration.GetSection("GameSettings")
-);
-
 var app = builder.Build();
-
-app.MapGet("/health", () => Results.Ok("Healthy"));
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

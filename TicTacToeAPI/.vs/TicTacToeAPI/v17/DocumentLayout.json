@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\SharkyJr\\Documents\\_documents\\git\\Module-Bank-internship-entry-task\\TicTacToeAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{64E0892B-09FE-4D16-8967-94D5817B6382}|TicTacToeAPI\\TicTacToeAPI.csproj|c:\\users\\sharkyjr\\documents\\_documents\\git\\module-bank-internship-entry-task\\tictactoeapi\\tictactoeapi\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E0892B-09FE-4D16-8967-94D5817B6382}|TicTacToeAPI\\TicTacToeAPI.csproj|solutionrelative:tictactoeapi\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E0892B-09FE-4D16-8967-94D5817B6382}|TicTacToeAPI\\TicTacToeAPI.csproj|c:\\users\\sharkyjr\\documents\\_documents\\git\\module-bank-internship-entry-task\\tictactoeapi\\tictactoeapi\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E0892B-09FE-4D16-8967-94D5817B6382}|TicTacToeAPI\\TicTacToeAPI.csproj|solutionrelative:tictactoeapi\\controllers\\healthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E0892B-09FE-4D16-8967-94D5817B6382}|TicTacToeAPI\\TicTacToeAPI.csproj|c:\\users\\sharkyjr\\documents\\_documents\\git\\module-bank-internship-entry-task\\tictactoeapi\\tictactoeapi\\models\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E0892B-09FE-4D16-8967-94D5817B6382}|TicTacToeAPI\\TicTacToeAPI.csproj|solutionrelative:tictactoeapi\\models\\move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{64E0892B-09FE-4D16-8967-94D5817B6382}|TicTacToeAPI\\TicTacToeAPI.csproj|c:\\users\\sharkyjr\\documents\\_documents\\git\\module-bank-internship-entry-task\\tictactoeapi\\tictactoeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{64E0892B-09FE-4D16-8967-94D5817B6382}|TicTacToeAPI\\TicTacToeAPI.csproj|solutionrelative:tictactoeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E0892B-09FE-4D16-8967-94D5817B6382}|TicTacToeAPI\\TicTacToeAPI.csproj|c:\\users\\sharkyjr\\documents\\_documents\\git\\module-bank-internship-entry-task\\tictactoeapi\\tictactoeapi\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64E0892B-09FE-4D16-8967-94D5817B6382}|TicTacToeAPI\\TicTacToeAPI.csproj|solutionrelative:tictactoeapi\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SharkyJr\\Documents\\_documents\\git\\Module-Bank-internship-entry-task\\TicTacToeAPI\\TicTacToeAPI\\Models\\GameSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TicTacToeAPI\\Models\\GameSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E0892B-09FE-4D16-8967-94D5817B6382}|TicTacToeAPI\\TicTacToeAPI.csproj|c:\\users\\sharkyjr\\documents\\_documents\\git\\module-bank-internship-entry-task\\tictactoeapi\\tictactoeapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{64E0892B-09FE-4D16-8967-94D5817B6382}|TicTacToeAPI\\TicTacToeAPI.csproj|solutionrelative:tictactoeapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64E0892B-09FE-4D16-8967-94D5817B6382}|TicTacToeAPI\\TicTacToeAPI.csproj|c:\\users\\sharkyjr\\documents\\_documents\\git\\module-bank-internship-entry-task\\tictactoeapi\\tictactoeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{64E0892B-09FE-4D16-8967-94D5817B6382}|TicTacToeAPI\\TicTacToeAPI.csproj|solutionrelative:tictactoeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64E0892B-09FE-4D16-8967-94D5817B6382}|TicTacToeAPI\\TicTacToeAPI.csproj|c:\\users\\sharkyjr\\documents\\_documents\\git\\module-bank-internship-entry-task\\tictactoeapi\\tictactoeapi\\database\\tictactoedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -12,22 +40,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SharkyJr\\AppData\\Roaming\\Microsoft\\UserSecrets\\ad68c99d-fb86-4ce9-b77e-da4e76cac528\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64E0892B-09FE-4D16-8967-94D5817B6382}|TicTacToeAPI\\TicTacToeAPI.csproj|c:\\users\\sharkyjr\\documents\\_documents\\git\\module-bank-internship-entry-task\\tictactoeapi\\tictactoeapi\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64E0892B-09FE-4D16-8967-94D5817B6382}|TicTacToeAPI\\TicTacToeAPI.csproj|solutionrelative:tictactoeapi\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64E0892B-09FE-4D16-8967-94D5817B6382}|TicTacToeAPI\\TicTacToeAPI.csproj|c:\\users\\sharkyjr\\documents\\_documents\\git\\module-bank-internship-entry-task\\tictactoeapi\\tictactoeapi\\models\\gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{64E0892B-09FE-4D16-8967-94D5817B6382}|TicTacToeAPI\\TicTacToeAPI.csproj|solutionrelative:tictactoeapi\\models\\gamesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64E0892B-09FE-4D16-8967-94D5817B6382}|TicTacToeAPI\\TicTacToeAPI.csproj|c:\\users\\sharkyjr\\documents\\_documents\\git\\module-bank-internship-entry-task\\tictactoeapi\\tictactoeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{64E0892B-09FE-4D16-8967-94D5817B6382}|TicTacToeAPI\\TicTacToeAPI.csproj|solutionrelative:tictactoeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{64E0892B-09FE-4D16-8967-94D5817B6382}|TicTacToeAPI\\TicTacToeAPI.csproj|c:\\users\\sharkyjr\\documents\\_documents\\git\\module-bank-internship-entry-task\\tictactoeapi\\tictactoeapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{64E0892B-09FE-4D16-8967-94D5817B6382}|TicTacToeAPI\\TicTacToeAPI.csproj|solutionrelative:tictactoeapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{64E0892B-09FE-4D16-8967-94D5817B6382}|TicTacToeAPI\\TicTacToeAPI.csproj|c:\\users\\sharkyjr\\documents\\_documents\\git\\module-bank-internship-entry-task\\tictactoeapi\\tictactoeapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,7 +61,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,6 +70,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "HealthController.cs",
+              "DocumentMoniker": "C:\\Users\\SharkyJr\\Documents\\_documents\\git\\Module-Bank-internship-entry-task\\TicTacToeAPI\\TicTacToeAPI\\Controllers\\HealthController.cs",
+              "RelativeDocumentMoniker": "TicTacToeAPI\\Controllers\\HealthController.cs",
+              "ToolTip": "C:\\Users\\SharkyJr\\Documents\\_documents\\git\\Module-Bank-internship-entry-task\\TicTacToeAPI\\TicTacToeAPI\\Controllers\\HealthController.cs",
+              "RelativeToolTip": "TicTacToeAPI\\Controllers\\HealthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T11:31:13.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Move.cs",
+              "DocumentMoniker": "C:\\Users\\SharkyJr\\Documents\\_documents\\git\\Module-Bank-internship-entry-task\\TicTacToeAPI\\TicTacToeAPI\\Models\\Move.cs",
+              "RelativeDocumentMoniker": "TicTacToeAPI\\Models\\Move.cs",
+              "ToolTip": "C:\\Users\\SharkyJr\\Documents\\_documents\\git\\Module-Bank-internship-entry-task\\TicTacToeAPI\\TicTacToeAPI\\Models\\Move.cs",
+              "RelativeToolTip": "TicTacToeAPI\\Models\\Move.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T11:17:33.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "C:\\Users\\SharkyJr\\Documents\\_documents\\git\\Module-Bank-internship-entry-task\\TicTacToeAPI\\TicTacToeAPI\\Services\\GameService.cs",
+              "RelativeDocumentMoniker": "TicTacToeAPI\\Services\\GameService.cs",
+              "ToolTip": "C:\\Users\\SharkyJr\\Documents\\_documents\\git\\Module-Bank-internship-entry-task\\TicTacToeAPI\\TicTacToeAPI\\Services\\GameService.cs",
+              "RelativeToolTip": "TicTacToeAPI\\Services\\GameService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T11:08:53.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "TicTacToeDbContext.cs",
               "DocumentMoniker": "C:\\Users\\SharkyJr\\Documents\\_documents\\git\\Module-Bank-internship-entry-task\\TicTacToeAPI\\TicTacToeAPI\\Database\\TicTacToeDbContext.cs",
               "RelativeDocumentMoniker": "TicTacToeAPI\\Database\\TicTacToeDbContext.cs",
@@ -65,12 +116,11 @@
               "RelativeToolTip": "TicTacToeAPI\\Database\\TicTacToeDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T20:34:08.175Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-27T20:34:08.175Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "secrets.json",
               "DocumentMoniker": "C:\\Users\\SharkyJr\\AppData\\Roaming\\Microsoft\\UserSecrets\\ad68c99d-fb86-4ce9-b77e-da4e76cac528\\secrets.json",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\ad68c99d-fb86-4ce9-b77e-da4e76cac528\\secrets.json",
@@ -78,8 +128,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\ad68c99d-fb86-4ce9-b77e-da4e76cac528\\secrets.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-27T20:20:42.223Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-27T20:20:42.223Z"
             },
             {
               "$type": "Document",
@@ -96,59 +145,57 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\SharkyJr\\Documents\\_documents\\git\\Module-Bank-internship-entry-task\\TicTacToeAPI\\TicTacToeAPI\\Models\\Game.cs",
               "RelativeDocumentMoniker": "TicTacToeAPI\\Models\\Game.cs",
-              "ToolTip": "C:\\Users\\SharkyJr\\Documents\\_documents\\git\\Module-Bank-internship-entry-task\\TicTacToeAPI\\TicTacToeAPI\\Models\\Game.cs*",
-              "RelativeToolTip": "TicTacToeAPI\\Models\\Game.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\SharkyJr\\Documents\\_documents\\git\\Module-Bank-internship-entry-task\\TicTacToeAPI\\TicTacToeAPI\\Models\\Game.cs",
+              "RelativeToolTip": "TicTacToeAPI\\Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-27T19:12:21.904Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "GameSettings.cs",
               "DocumentMoniker": "C:\\Users\\SharkyJr\\Documents\\_documents\\git\\Module-Bank-internship-entry-task\\TicTacToeAPI\\TicTacToeAPI\\Models\\GameSettings.cs",
               "RelativeDocumentMoniker": "TicTacToeAPI\\Models\\GameSettings.cs",
               "ToolTip": "C:\\Users\\SharkyJr\\Documents\\_documents\\git\\Module-Bank-internship-entry-task\\TicTacToeAPI\\TicTacToeAPI\\Models\\GameSettings.cs",
               "RelativeToolTip": "TicTacToeAPI\\Models\\GameSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T18:54:22.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-27T18:54:22.672Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\SharkyJr\\Documents\\_documents\\git\\Module-Bank-internship-entry-task\\TicTacToeAPI\\TicTacToeAPI\\appsettings.json",
               "RelativeDocumentMoniker": "TicTacToeAPI\\appsettings.json",
               "ToolTip": "C:\\Users\\SharkyJr\\Documents\\_documents\\git\\Module-Bank-internship-entry-task\\TicTacToeAPI\\TicTacToeAPI\\appsettings.json",
               "RelativeToolTip": "TicTacToeAPI\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-07-27T18:52:11.105Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\SharkyJr\\Documents\\_documents\\git\\Module-Bank-internship-entry-task\\TicTacToeAPI\\TicTacToeAPI\\Program.cs",
               "RelativeDocumentMoniker": "TicTacToeAPI\\Program.cs",
               "ToolTip": "C:\\Users\\SharkyJr\\Documents\\_documents\\git\\Module-Bank-internship-entry-task\\TicTacToeAPI\\TicTacToeAPI\\Program.cs",
               "RelativeToolTip": "TicTacToeAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-27T18:37:15.727Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\SharkyJr\\Documents\\_documents\\git\\Module-Bank-internship-entry-task\\TicTacToeAPI\\TicTacToeAPI\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "TicTacToeAPI\\Controllers\\WeatherForecastController.cs",
@@ -156,12 +203,11 @@
               "RelativeToolTip": "TicTacToeAPI\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T18:56:21.187Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-27T18:56:21.187Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "TicTacToeAPI.http",
               "DocumentMoniker": "C:\\Users\\SharkyJr\\Documents\\_documents\\git\\Module-Bank-internship-entry-task\\TicTacToeAPI\\TicTacToeAPI\\TicTacToeAPI.http",
               "RelativeDocumentMoniker": "TicTacToeAPI\\TicTacToeAPI.http",
@@ -169,12 +215,11 @@
               "RelativeToolTip": "TicTacToeAPI\\TicTacToeAPI.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-07-27T18:40:29.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-27T18:40:29.331Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\SharkyJr\\Documents\\_documents\\git\\Module-Bank-internship-entry-task\\TicTacToeAPI\\TicTacToeAPI\\Dockerfile",
               "RelativeDocumentMoniker": "TicTacToeAPI\\Dockerfile",
@@ -182,8 +227,7 @@
               "RelativeToolTip": "TicTacToeAPI\\Dockerfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-07-27T18:29:29.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-27T18:29:29.465Z"
             }
           ]
         }
